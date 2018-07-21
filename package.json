@@ -1,12 +1,12 @@
 {
-  "name": "Litesight-bitcore-api",
+  "name": "Exp Api",
   "description": "An open-source Litecoin blockchain API. The Litesight API provides you with a convenient, powerful and simple way to query and broadcast data on the Litecoin network and build your own services with it.",
   "version": "0.2.11",
   "author": {
-    "name": "pembo210",
-    "email": "pembo210@gmail.com"
+    "name": "eboot",
+    "email": "melkysaputra2@gmail.com"
   },
-  "repository": "git://github.com/pembo210/Litesight-api.git",
+  "repository": "git://github.com/eboot/exp-api.git",
   "contributors": [
     {
       "name": "FlappyDEV",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/pembo210/Litesight-api/issues"
   },
-  "homepage": "https://github.com/pembo210/Litesight-api",
+  "homepage": "https://github.com/eboot/exp-api",
   "license": "MIT",
   "keywords": [
     "litesight",
